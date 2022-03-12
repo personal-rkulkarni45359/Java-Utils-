@@ -1,2 +1,6 @@
 # Java-Utils-
-Java Utils from volenteer work at university and personal code
+These programs are java libaries created to make coding easier when I was doing some volenteer work at a University 
+and every day programming. 
+
+Each sections creates a jar file which then can be imported into a java project and be used. 
+
